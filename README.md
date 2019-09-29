@@ -19,10 +19,11 @@
 ## 爬虫禁区3：利用无版权的商业数据获利
 
 - [CASE6:“车来了”涉嫌偷数据被警方立案][6]
+- [CASE8:裁判文书网数据竟被售卖：爬虫程序抓取 或成侵权][7]
 
 ## 爬虫禁区4：？
 
-- [CASE7:头疼大战前传：头条前高管反噬被判刑][7]
+- [CASE7:头疼大战前传：头条前高管反噬被判刑][8]
 
 # 相关法律法规介绍
 
@@ -33,7 +34,7 @@
 
 # 专业律师发表的相关观点
 
-[周 浩：利用网络爬虫获取数据的刑事责任分析][8]
+[周 浩：利用网络爬虫获取数据的刑事责任分析][9]
 
 
   [1]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case1
@@ -42,5 +43,6 @@
   [4]: http://www.aihami.com/a/dangjian/shibada/403060.html
   [5]: http://baijiahao.baidu.com/s?id=1645632518831659246&wfr=spider&for=pc
   [6]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case6
-  [7]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case7
-  [8]: http://www.cicjc.com.cn/zh/node/9449
+  [7]: https://money.163.com/19/0802/06/ELI9OADD002580S6.html
+  [8]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case7
+  [9]: http://www.cicjc.com.cn/zh/node/9449
