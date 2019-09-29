@@ -7,22 +7,22 @@
 
 ## 爬虫禁区1：验证码识别服务贩卖
 
-- CASE1:知乎某极验破解者自述被抓（已删除）
-- CASE2:“快啊答题”AI破解验证码服务开发者被判刑
+- [CASE1:知乎某极验破解者自述被抓（已删除）][1]
+- [CASE2:“快啊答题”AI破解验证码服务开发者被判刑][2]
 
 ## 爬虫禁区2：个人隐私数据抓取与贩卖
 
-- [CASE3:简历大数据公司“巧达科技”被一锅端][1]
-- [CASE4:社保掌上通被下架 用户的信息很容易泄露太不安全了][2]
-- [CASE5:爬虫为何受关注？业内：大数据服务商或因合作方涉套路贷犯罪而被牵连][3]
+- [CASE3:简历大数据公司“巧达科技”被一锅端][3]
+- [CASE4:社保掌上通被下架 用户的信息很容易泄露太不安全了][4]
+- [CASE5:爬虫为何受关注？业内：大数据服务商或因合作方涉套路贷犯罪而被牵连][5]
 
 ## 爬虫禁区3：利用无版权的商业数据获利
 
-- CASE6:“车来了”涉嫌偷数据被警方立案
+- [CASE6:“车来了”涉嫌偷数据被警方立案][6]
 
 ## 爬虫禁区4：？
 
-- CASE7:头疼大战前传：头条前高管反噬被判刑
+- [CASE7:头疼大战前传：头条前高管反噬被判刑][7]
 
 # 相关法律法规介绍
 
@@ -33,10 +33,14 @@
 
 # 专业律师发表的相关观点
 
-[周 浩：利用网络爬虫获取数据的刑事责任分析][4]
+[周 浩：利用网络爬虫获取数据的刑事责任分析][8]
 
 
-  [1]: https://baijiahao.baidu.com/s?id=1628902817173523756&wfr=spider&for=pc
-  [2]: http://www.aihami.com/a/dangjian/shibada/403060.html
-  [3]: http://baijiahao.baidu.com/s?id=1645632518831659246&wfr=spider&for=pc
-  [4]: http://www.cicjc.com.cn/zh/node/9449
+  [1]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case1
+  [2]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case2
+  [3]: https://baijiahao.baidu.com/s?id=1628902817173523756&wfr=spider&for=pc
+  [4]: http://www.aihami.com/a/dangjian/shibada/403060.html
+  [5]: http://baijiahao.baidu.com/s?id=1645632518831659246&wfr=spider&for=pc
+  [6]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case6
+  [7]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case7
+  [8]: http://www.cicjc.com.cn/zh/node/9449
