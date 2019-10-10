@@ -5,11 +5,11 @@
 
 # 违法违规案例汇总
 
-## 爬虫禁区1：验证码识别服务贩卖
+## 爬虫禁区1：为违法违规组织提供爬虫相关服务（验证码识别服务贩卖、SEO……）
 
 - [CASE1:知乎某极验破解者自述被抓（已删除）][1]
 - [CASE2:“快啊答题”AI破解验证码服务开发者被判刑][2]
-
+- [CASE9:永嘉警方揪出“黑”百度黑客团伙 干扰搜索引擎牟利超七千万元][11]
 ## 爬虫禁区2：个人隐私数据抓取与贩卖
 
 - [CASE3:简历大数据公司“巧达科技”被一锅端][3]
@@ -64,4 +64,4 @@
   [8]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case7
   [9]: http://www.cicjc.com.cn/zh/node/9449
   [10]: https://www.kwm.com/zh/cn/knowledge/insights/legal-issues-concerning-web-crawlers-20180525
-  
+  [11]: https://baijiahao.baidu.com/s?id=1589886315683543136&wfr=spider&for=pc
