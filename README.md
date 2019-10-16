@@ -55,7 +55,7 @@
 
   [1]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case1
   [2]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case2
-  [3]: https://baijiahao.baidu.com/s?id=1628902817173523756&wfr=spider&for=pc
+  [3]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case3
   [4]: http://www.aihami.com/a/dangjian/shibada/403060.html
   [5]: http://baijiahao.baidu.com/s?id=1645632518831659246&wfr=spider&for=pc
   [6]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case6
