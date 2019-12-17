@@ -54,7 +54,9 @@
 
 # 爱好者
 SpiderMan爬虫爱好者QQ群，群号 973318614
-逆向/破解/JS/纯技术交流/私活发包分包/数据需求
+
+逆向、破解、JS等纯技术交流 / 私活发包分包 / 数据需求 
+
 
   [1]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case1
   [2]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case2
