@@ -1,6 +1,9 @@
-# ÖªºõÄ³¼«ÑéÆÆ½âÕß×ÔÊö±»×¥£¨ÒÑÉ¾³ý£©
+# çŸ¥ä¹ŽæŸæžéªŒç ´è§£è€…è‡ªè¿°è¢«æŠ“ï¼ˆå·²åˆ é™¤ï¼‰
 ------
-Ô­ÎÄÁ´½Ó£ºhttps://www.zhihu.com/question/322096408/answer/695891488 £¨ÏÖÒÑÉ¾³ý£©
+Hintï¼šIssueä¸­æœ‰è€å“¥æ‰¾åˆ°çš„Snapshot
 
-ÓÐÄÜÁ¦µÄÇë×ÔÐÐËÑË÷¿ìÕÕÄÚÈÝ¡£
+åŽŸæ–‡é“¾æŽ¥ï¼šhttps://www.zhihu.com/question/322096408/answer/695891488 ï¼ˆçŽ°å·²åˆ é™¤ï¼‰
+
+æœ‰èƒ½åŠ›çš„è¯·è‡ªè¡Œæœç´¢å¿«ç…§å†…å®¹ã€‚
+
 
