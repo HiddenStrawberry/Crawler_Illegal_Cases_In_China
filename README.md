@@ -9,13 +9,16 @@
 - [CASE1:知乎某极验破解者自述被抓（已删除）][1]
 - [CASE2:“快啊答题”AI破解验证码服务开发者被判刑][2]
 - [CASE9:永嘉警方揪出“黑”百度黑客团伙 干扰搜索引擎牟利超七千万元][11]
+
 ## 爬虫禁区2：个人隐私数据抓取与贩卖
 
 - [CASE3:简历大数据公司“巧达科技”被一锅端][3]
 - [CASE4:社保掌上通被下架 用户的信息很容易泄露太不安全了][4]
 - [CASE5:爬虫为何受关注？业内：大数据服务商或因合作方涉套路贷犯罪而被牵连][5]
 - [CASE10:中数智汇员工私下贩卖工商数据被判刑][12]
-- [CASE11:非法提供杭州某网购平台数据爬取接口获利2.2万元，文某某被提起公诉！[13]
+- [CASE11:非法提供杭州某网购平台数据爬取接口获利2.2万元，文某某被提起公诉！][13]
+
+
 ## 爬虫禁区3：利用无版权的商业数据获利
 
 - [CASE6:“车来了”涉嫌偷数据被警方立案][6]
@@ -70,3 +73,4 @@ SpiderMan爬虫爱好者QQ群，群号 973318614
   [11]: https://baijiahao.baidu.com/s?id=1589886315683543136&wfr=spider&for=pc
   [12]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case10
   [13]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case11
+
