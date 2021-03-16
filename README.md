@@ -49,6 +49,12 @@
 ## 民法总则
 > 《民法总则》第111条任何组织和个人需要获取他人个人信息的，应当依法取得并确保信息安全。不得非法收集、使用、加工、传输他人个人信息
 
+# 相关法律条文
+[中华人民共和国刑法][15]
+[中华人民共和国反不正当竞争法][16]
+[中华人民共和国网络安全法][17]
+[中华人民共和国民法典][18]
+[最高人民法院 最高人民检察院关于办理侵犯公民个人信息刑事案件适用法律若干问题的解释][19]
 
 # 专业律师发表的相关观点
 
@@ -74,4 +80,8 @@ SpiderMan爬虫爱好者QQ群，群号 973318614
   [12]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case10
   [13]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case11
   [14]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case12
-
+  [15]: https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%88%91%E6%B3%95/721359?fr=aladdin
+  [16]: https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8F%8D%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89%E6%B3%95/152458?fromtitle=%E5%8F%8D%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89%E6%B3%95&fromid=2582153&fr=aladdin
+  [17]: https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/16843044?fromtitle=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&fromid=12291792&fr=aladdin
+  [18]: https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8/19435116?fr=aladdin
+  [19]: https://baike.baidu.com/item/%E6%9C%80%E9%AB%98%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E3%80%81%E6%9C%80%E9%AB%98%E4%BA%BA%E6%B0%91%E6%A3%80%E5%AF%9F%E9%99%A2%E5%85%B3%E4%BA%8E%E5%8A%9E%E7%90%86%E4%BE%B5%E7%8A%AF%E5%85%AC%E6%B0%91%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%E9%80%82%E7%94%A8%E6%B3%95%E5%BE%8B%E8%8B%A5%E5%B9%B2%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E9%87%8A/20497481?fr=aladdin
