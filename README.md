@@ -17,7 +17,7 @@
 - [CASE5:爬虫为何受关注？业内：大数据服务商或因合作方涉套路贷犯罪而被牵连][5]
 - [CASE10:中数智汇员工私下贩卖工商数据被判刑][12]
 - [CASE11:非法提供杭州某网购平台数据爬取接口获利2.2万元，文某某被提起公诉！][13]
-
+- [CASE12:抓取脉脉数据并出售个人信息被判刑！][14]
 
 ## 爬虫禁区3：利用无版权的商业数据获利
 
@@ -73,4 +73,5 @@ SpiderMan爬虫爱好者QQ群，群号 973318614
   [11]: https://baijiahao.baidu.com/s?id=1589886315683543136&wfr=spider&for=pc
   [12]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case10
   [13]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case11
+  [14]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case12
 
