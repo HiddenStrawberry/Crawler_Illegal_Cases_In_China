@@ -76,7 +76,7 @@ SpiderMan爬虫爱好者QQ群，群号 973318614
   [6]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case6
   [7]: https://money.163.com/19/0802/06/ELI9OADD002580S6.html
   [8]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case7
-  [9]: http://www.cicjc.com.cn/zh/node/9449
+  [9]: http://xuetang.pkulaw.com/index.php?m=content&c=index&a=show&catid=10&id=823
   [10]: https://www.kwm.com/zh/cn/knowledge/insights/legal-issues-concerning-web-crawlers-20180525
   [11]: https://baijiahao.baidu.com/s?id=1589886315683543136&wfr=spider&for=pc
   [12]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/tree/master/case10
