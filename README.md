@@ -17,6 +17,7 @@
 - [CASE5:爬虫为何受关注？业内：大数据服务商或因合作方涉套路贷犯罪而被牵连][5]
 - [CASE10:中数智汇员工私下贩卖工商数据被判刑][12]
 - [CASE12:抓取脉脉数据并出售个人信息获利11584元被判刑][14]
+- [CASE15:非法存储公民账号密码2000万余条!魔蝎数据爬虫案判了][22]
 
 ## 爬虫禁区3：利用无版权的商业数据获利
 
@@ -65,6 +66,8 @@
 
 [金 杜：数据之争：网络爬虫涉及的法律问题][10]
 
+[丁学明: 网络爬虫？你可能面临的法律责任][23]
+
 # 爱好者
 SpiderMan爬虫爱好者QQ群，群号 973318614
 
@@ -90,3 +93,6 @@ SpiderMan爬虫爱好者QQ群，群号 973318614
   [19]: https://baike.baidu.com/item/%E6%9C%80%E9%AB%98%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E3%80%81%E6%9C%80%E9%AB%98%E4%BA%BA%E6%B0%91%E6%A3%80%E5%AF%9F%E9%99%A2%E5%85%B3%E4%BA%8E%E5%8A%9E%E7%90%86%E4%BE%B5%E7%8A%AF%E5%85%AC%E6%B0%91%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%E9%80%82%E7%94%A8%E6%B3%95%E5%BE%8B%E8%8B%A5%E5%B9%B2%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E9%87%8A/20497481?fr=aladdin
   [20]: https://www.163.com/dy/article/GMI34B9B05493UHP.html
   [21]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/blob/master/case14/readme.md
+  [22]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/blob/master/case15/readme.md
+  [23]: https://www.sohu.com/a/472126747_121126542
+
