@@ -25,6 +25,7 @@
 - [CASE8:裁判文书网数据竟被售卖：爬虫程序抓取 或成侵权][7]
 - [CASE11:非法提供杭州某网购平台数据爬取接口获利2.2万元，文某某被提起公诉][13]
 - [CASE13:某直播数据网站（提供淘宝直播数据）某球数据CEO王某漪被抓][20]
+- [CASE16:非法抓取“起点”小说供人免费阅读获利千万被判刑][24]
 
 ## 爬虫禁区4：？
 
@@ -95,4 +96,5 @@ SpiderMan爬虫爱好者QQ群，群号 973318614
   [21]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/blob/master/case14/readme.md
   [22]: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China/blob/master/case15/readme.md
   [23]: https://www.sohu.com/a/472126747_121126542
+  [24]: https://www.163.com/dy/article/DFRJ0PTC0514BRB0.html
 
