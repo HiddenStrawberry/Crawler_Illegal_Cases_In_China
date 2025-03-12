@@ -75,7 +75,6 @@
 [丁学明: 网络爬虫？你可能面临的法律责任][23]
 
 # 爱好者
-SpiderMan爬虫爱好者QQ群，群号 973318614
 ![image](https://github.com/user-attachments/assets/d82b3a51-0675-4d40-8768-e836867d57e7)
 
 
